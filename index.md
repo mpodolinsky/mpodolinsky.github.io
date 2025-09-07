@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
-Hi, I’m **Michal P. Podolinsky** — a robotics engineer passionate about autonomy and UAV perception.  
+Hi, I’m **Michal P. Podolinsky** !
 
-Check out my [Projects](/projects/) or learn more [About Me](/about/).
+I am a graduate student (MSc) in **aerospace engineering** at *UT Austin* and a resercher in **robotics and autonomy** at the *Autonomous Systems Group*
+
+Check out my [Projects](/projects/) (coming soon) or learn more [About Me](/about/).
