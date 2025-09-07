@@ -6,9 +6,9 @@ permalink: /projects/
 
 
 
-## [**Front-Facing LiDAR Height Estimation**](/height_estimation.md/)
+## **Front-Facing LiDAR Height Estimation**
 
-**Type of Project:** Commercial Internship at [Perciv AI](https://www.perciv.ai/) | Real-Time Robotics
+**Type of Project:** Commercial Internship at [Perciv AI](https://www.perciv.ai/), Real-Time Robotics
 
 **Status:** Commercially implemented in [ABZ Innovation](https://abzinnovation.com/) agricultural drones
 
@@ -16,4 +16,16 @@ permalink: /projects/
 
 *Figure 1: Live field testing in an agricultural environment to validate height estimation accuracy*
 
-- [Learn more](/height_estimation.md)
+- [Learn more](/height_estimation/)
+
+## **Spatiotemporal Tracking of Dynamic Structures from Satellite Data**
+
+**Type of Project:** Undergraduate Academic Research, Algorithm Design, Data Processing
+
+**Status:** Completed, Advisor: [Ernst Schrama](https://scholar.google.com/citations?user=-4MM-SUAAAAJ&hl=nl)
+
+![Geostrophic velocities over Sea-Level Anomaly map](/assets/SLA_over_UV.svg)
+
+*Figure 1: Geostrophic velocities are used to compute the Okubo-Weiss parameter*
+
+- [Learn more](/eddy/)
