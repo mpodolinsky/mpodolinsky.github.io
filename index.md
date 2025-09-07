@@ -9,4 +9,4 @@ I am a graduate student in the **Aerospace Engineering (MSc)** Controls, Autonom
 
 I work as a researcher in **robotics and autonomy** at the *Autonomous Systems Group*
 
-Check out my [Projects](/projects/) (coming soon) or learn more [About Me](/about/).
+Check out my [Projects](/projects/) or learn more [About Me](/about/).

@@ -24,7 +24,7 @@ permalink: /projects/
 
 **Status:** Completed, Advisor: [Ernst Schrama](https://scholar.google.com/citations?user=-4MM-SUAAAAJ&hl=nl)
 
-![Geostrophic velocities over Sea-Level Anomaly map](/assets/SLA_over_UV.svg)
+![Geostrophic velocities over Sea-Level Anomaly map](/assets/SLA_over_UV.png)
 
 *Figure 1: Geostrophic velocities are used to compute the Okubo-Weiss parameter*
 
