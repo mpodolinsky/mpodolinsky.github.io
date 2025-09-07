@@ -1,0 +1,24 @@
+title: "Michal P. Podolinsky"
+description: "My work in robotics and autonomy"
+baseurl: "" # leave empty for yourusername.github.io
+url: "https://mpodolinsky.github.io"
+
+# Theme settings
+remote_theme: huangyz0918/moving
+
+plugins:
+  - jekyll-remote-theme
+
+# Navigation (optional)
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects/
+  - name: "About Michal"
+    link: /about/
+
+# Author info
+author:
+  name: "Michal P. Podolinsky"
+  email: "michal.p.podolinsky@gmail.com"
