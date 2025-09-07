@@ -3,8 +3,10 @@ layout: default
 title: Home
 ---
 
-Hi, I’m **Michal P. Podolinsky** !
+Hi, I’m **Michal**!
 
-I am a graduate student (MSc) in **aerospace engineering** at *UT Austin* and a resercher in **robotics and autonomy** at the *Autonomous Systems Group*
+I am a graduate student in the **Aerospace Engineering (MSc)** Controls, Autonomy, and Robotics track at *UT Austin* 
+
+I work as a researcher in **robotics and autonomy** at the *Autonomous Systems Group*
 
 Check out my [Projects](/projects/) (coming soon) or learn more [About Me](/about/).
