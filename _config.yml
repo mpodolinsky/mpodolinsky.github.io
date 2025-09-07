@@ -19,7 +19,5 @@ nav:
     link: /about/
 
 # Author info
-author:
-  name: "Michal P. Podolinsky"
-  link: /about/
-  email: "michal.p.podolinsky@gmail.com"
+author: "Michal P. Podolinsky"
+email: "michal.p.podolinsky@gmail.com"
