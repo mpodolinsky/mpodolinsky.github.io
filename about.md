@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Profile Picture](https://avatars.githubusercontent.com/u/0000000?v=4)  
-<!-- Replace with your own image URL or put an image in /assets/img/ -->
+![Profile Picture](/assets/michal.jpg)
 
 ## Michal P. Podolinsky
 Robotics engineer passionate about autonomy, control systems, and UAV perception.  
