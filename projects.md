@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-
-
 ## **Front-Facing LiDAR Height Estimation**
 
 **Type of Project:** Commercial Internship at [Perciv AI](https://www.perciv.ai/), Real-Time Robotics
