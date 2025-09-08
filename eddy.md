@@ -27,13 +27,13 @@ Built a full-stack Python pipeline to detect, filter, and track dynamic spatiote
 
   <!-- Subfigure (b) -->
   <div style="display: inline-block; width: 48%; margin: 1%;">
-    <img src="/assets/SLA_over_UV.png" alt="Geostrophic velocities over SLA map" style="max-width: 100%; height: auto;">
+    <img src="/assets/SLA_over_U-V.png" alt="Geostrophic velocities over SLA map" style="max-width: 100%; height: auto;">
     <figcaption><strong>(b)</strong> Geostrophic velocities overlaid on SLA map</figcaption>
   </div>
 
   <!-- Subfigure (c) -->
   <div style="display: inline-block; width: 48%; margin: 1%;">
-    <img src="/assets/Okubo_Weiss.png" alt="Okubo-Weiss parameter W" style="max-width: 100%; height: auto;">
+    <img src="/assets/Okubo-Weiss_Parameter.png" alt="Okubo-Weiss parameter W" style="max-width: 100%; height: auto;">
     <figcaption><strong>(c)</strong> Okubo–Weiss parameter \(W\)</figcaption>
   </div>
 
