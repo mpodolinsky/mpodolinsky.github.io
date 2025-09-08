@@ -6,7 +6,7 @@ permalink: /height_estimation/
 
 
 
-## **Front-Facing LiDAR Height Estimation**
+## **Front-Facing LiDAR Altitude Estimation**
 
 **Type of Project:** Commercial Internship at [Perciv AI](https://www.perciv.ai/), Real-Time Robotics
 
@@ -29,14 +29,14 @@ Developed, tested, and deployed a robust algorithm enabling agricultural drones 
 
 *These images are the propery of PERCIV AI, do not use or share them without consent*
 
-![Height estimation algorithm in an Orchard](/assets/Process.png)
+![Altitude estimation algorithm in an Orchard](/assets/Process.png)
 
-*Figure 1: Live field testing in an agricultural environment to validate height estimation accuracy*
+*Figure 1: Live field testing in an agricultural environment to validate altitude estimation accuracy*
 
 
-![Height estimation algorithm in an field](/assets/Process_2.png)
+![Altitude estimation algorithm in an field](/assets/Process_2.png)
 
-*Figure 2: Live field testing in an unstructured environment to validate height estimation accuracy*
+*Figure 2: Live field testing in an unstructured environment to validate altitude estimation accuracy*
 
 ### **Key Contributions**
 - **Algorithm Development:** Designed real-time height estimation algorithms in **Python and C++** using **ROS**, with seamless integration in **Linux** and **Docker** environments.
