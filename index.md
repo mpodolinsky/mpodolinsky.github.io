@@ -21,4 +21,4 @@ Check out my [Projects](/projects/) or learn more [About Me](/about/).
   Your browser does not support the video tag.
 </video>
 
-*This video is the propery of PERCIV AI, do not use or share it without consent*
+*This video is the property of PERCIV AI, do not use or share it without consent*

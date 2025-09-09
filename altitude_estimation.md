@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-permalink: /height_estimation/
+permalink: /altitude_estimation/
 ---
 
 
@@ -16,7 +16,7 @@ permalink: /height_estimation/
 Developed, tested, and deployed a robust algorithm enabling agricultural drones to estimate their altitude using only a front-facing LiDAR sensor—supporting reliable low-altitude flight without GPS or downward sensors.
 
 - Fewer sensors reduce cost and risk of hardware failure
-- Can be used as a primary or backup height estimator for greater robustness
+- Can be used as a primary or backup altitude estimator for greater robustness
 - More accurate than GPS in complex and irregular environments
 
 ### **Technical Stack**
@@ -39,7 +39,7 @@ Developed, tested, and deployed a robust algorithm enabling agricultural drones 
 *Figure 2: Live field testing in an unstructured environment to validate altitude estimation accuracy*
 
 ### **Key Contributions**
-- **Algorithm Development:** Designed real-time height estimation algorithms in **Python and C++** using **ROS**, with seamless integration in **Linux** and **Docker** environments.
+- **Algorithm Development:** Designed real-time altitude estimation algorithms in **Python and C++** using **ROS**, with seamless integration in **Linux** and **Docker** environments.
 - **Embedded Systems Integration:** Deployed code on **Raspberry Pi 5** modules and physically integrated into drone hardware for field use.
 - **Real-World Testing:** Performed live drone tests in agricultural settings, gathering sensor data and iterating on code for improved performance.
 - **Hardware-in-the-Loop (HIL):** Built HIL setups to simulate sensor input for optimizing latency and compute load in constrained environments.

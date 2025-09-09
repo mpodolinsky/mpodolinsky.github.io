@@ -6,7 +6,6 @@ permalink: /about/
 
 <img src="/assets/michal.jpg" alt="Profile Picture" width="150" align="left" style="margin-right:15px; border-radius:8px;"/>
 
-## Michal P. Podolinsky
 I was born in Slovakia and raised in Brussels, Belgium.
 
 I completed my BSc in Aerospace Engineering at *Delft University of Technology* (TU Delft) in the Netherlands.
@@ -26,5 +25,5 @@ In my free time, I enjoy hiking, running, and playing tennis. I am also a long-t
 
 ### What’s New
 - Awarded the *Belgian American Educational Foundation* Cabeaux-Jacobs Fellowship (2025) supporting my studies in the United Sates (up to $112,000).  
-- Developed a commercial LiDAR-based height estimation algorithm for autonomous agricultural drones at *Perciv AI*.
+- Developed a commercial LiDAR-based altitude estimation algorithm for autonomous agricultural drones at *Perciv AI*.
 - Starting graduate studies at UT Austin.

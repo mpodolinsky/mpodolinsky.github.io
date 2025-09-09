@@ -4,17 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-## **Front-Facing LiDAR Height Estimation**
+## **Front-Facing LiDAR Altitude Estimation**
 
 **Type of Project:** Commercial Internship at [Perciv AI](https://www.perciv.ai/), Real-Time Robotics
 
 **Status:** Commercially implemented in [ABZ Innovation](https://abzinnovation.com/) agricultural drones
 
-![Height estimation algorithm in an Orchard](/assets/Process.png)
+![Altitude estimation algorithm in an Orchard](/assets/Process.png)
 
-*Figure 1: Live field testing in an agricultural environment to validate height estimation accuracy*
+*Figure 1: Live field testing in an agricultural environment to validate altitude estimation accuracy*
 
-- [Learn more](/height_estimation/)
+- [Learn more](/altitude_estimation/)
 
 ## **Spatiotemporal Tracking of Dynamic Structures from Satellite Data**
 
