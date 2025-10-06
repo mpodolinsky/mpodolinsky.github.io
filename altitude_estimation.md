@@ -29,11 +29,6 @@ Developed, tested, and deployed a robust algorithm enabling agricultural drones 
 
 *These images are the propery of PERCIV AI, do not use or share them without consent*
 
-![Altitude estimation algorithm in an Orchard](/assets/Process.png)
-
-*Figure 1: Live field testing in an agricultural environment to validate altitude estimation accuracy*
-
-
 ![Altitude estimation algorithm in an field](/assets/Process_2.png)
 
 *Figure 2: Live field testing in an unstructured environment to validate altitude estimation accuracy*
