@@ -10,9 +10,9 @@ permalink: /projects/
 
 **Status:** Commercially implemented in [ABZ Innovation](https://abzinnovation.com/) agricultural drones
 
-![Altitude estimation algorithm in an Orchard](/assets/Process.png)
+![Altitude estimation algorithm in an Orchard](/assets/Process_2.png)
 
-*Figure 1: Live field testing in an agricultural environment to validate altitude estimation accuracy*
+*Figure 1: Live field testing in an unstructured environment to validate altitude estimation accuracy*
 
 - [Learn more](/altitude_estimation/)
 
