@@ -131,9 +131,11 @@ Hands-on sessions covering servos, sensors, Python programming, and hardware con
 </div>
 
 <div class="page-section" markdown="1">
-<h3>What’s next</h3>
-- Tutorials: coming soon
-- Blog: coming soon
+<h3>Tutorials</h3>
+- [coming soon] Synthetic data generation with NVIDIA Isaac Sim Replicator
+
+<h3>Blog</h3>
+- [non-technical aerospace books recommendations](/blog/aerospace-book-recommendations/)
 </div>
 
 <div class="page-section" markdown="1">
