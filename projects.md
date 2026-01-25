@@ -38,10 +38,13 @@ Designed, 3D printed, and soldered custom payload platform; integrated compute a
 
 ![Spot Payload - View 1](/assets/IMG_0371.JPEG)
 
-![Spot Payload - View 2](/assets/IMG_0380.MP4)
+<video width="640" controls>
+  <source src="/assets/IMG_0380.MP4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Deployment & Validation
 
 Trained and deployed reinforcement-learning-based gait policies in NVIDIA Isaac Lab, validated on real hardware
 
-[![Deployment Testing - Video 2](https://youtu.be/VYIzRHe3hXc)](https://youtu.be/VYIzRHe3hXc)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VYIzRHe3hXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
