@@ -27,3 +27,21 @@ permalink: /projects/
 *Figure 1: Geostrophic velocities are used to compute the Okubo-Weiss parameter*
 
 - [Learn more](/eddy/)
+
+## **Boston Dynamics Spot**
+
+**Type of Project:** Robotics Research & Development
+
+### Payload Development
+
+Designed, 3D printed, and soldered custom payload platform; integrated compute and perception stacks (LiDAR, RGB-D)
+
+![Spot Payload - View 1](/assets/IMG_0371.JPEG)
+
+![Spot Payload - View 2](/assets/IMG_0380.MP4)
+
+### Deployment & Validation
+
+Trained and deployed reinforcement-learning-based gait policies in NVIDIA Isaac Lab, validated on real hardware
+
+[![Deployment Testing - Video 2](https://youtu.be/VYIzRHe3hXc)](https://youtu.be/VYIzRHe3hXc)
