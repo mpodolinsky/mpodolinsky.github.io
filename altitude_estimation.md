@@ -32,11 +32,20 @@ Developed, tested, and deployed a robust algorithm enabling agricultural drones 
 ![Altitude estimation algorithm in an field](/assets/Process_2.png)
 
 *Live field testing in an unstructured environment to validate altitude estimation accuracy*
+
 <video autoplay loop muted playsinline preload="metadata" style="max-width:100%; height:auto; border-radius:12px; margin: 20px 0;">
   <source src="{{ '/assets/pointcloud_demo.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 *Real-time point cloud processing demonstration*
+
+<img src="/assets/1.png" alt="Live drone test running the altitude estimator" style="max-width:70%; height:auto; display:block; margin: 20px auto;" />
+
+*Flight test with the algorithm running on-board*
+
+<img src="/assets/2.png" alt="Raspberry Pi running the altitude estimation module" style="max-width:70%; height:auto; display:block; margin: 20px auto;" />
+
+*Embedded module executing the estimator during field trials*
 
 ### **Key Contributions**
 - **Algorithm Development:** Designed real-time altitude estimation algorithms in **Python and C++** using **ROS**, with seamless integration in **Linux** and **Docker** environments.
