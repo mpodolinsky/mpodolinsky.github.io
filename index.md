@@ -14,25 +14,25 @@ Learn more [about me](/about/) or check out my [outreach](/outreach/).
 ## **Projects**
 
 #### [**Boston Dynamics Spot Robot**](/spot/)
-<img src="/assets/IMG_0371.JPEG" alt="Spot Robot" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
+<img src="/assets/IMG_0371.JPEG" alt="Spot Robot" width="150" height="150" align="right" style="margin-left: 15px; margin-bottom: 15px; object-fit: cover; border-radius: 8px;">
 
 Custom payload development and reinforcement learning-based gait policy deployment on real hardware.
 
 **Status:** Ongoing Research
 
 #### [**Front-Facing LiDAR Altitude Estimation**](/altitude_estimation/)
-<img src="/assets/Process_2.png" alt="Altitude Estimation" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
+<img src="/assets/Process_2.png" alt="Altitude Estimation" width="150" height="150" align="right" style="margin-left: 15px; margin-bottom: 15px; object-fit: cover; border-radius: 8px;">
 
 Robust altitude estimation for agricultural drones using only front-facing LiDAR.
 
 **Status:** Deployed at [ABZ Innovation](https://abzinnovation.com/)
 
 #### [**Spatiotemporal Tracking from Satellite Data**](/eddy/)
-<img src="/assets/SLA_over_U-V.png" alt="Eddy Tracking" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
+<img src="/assets/SLA_over_U-V.png" alt="Eddy Tracking" width="150" height="150" align="right" style="margin-left: 15px; margin-bottom: 15px; object-fit: cover; border-radius: 8px;">
 
 Python pipeline for detecting and tracking dynamic oceanic eddies from satellite data.
 
-**Status:** Completed | TU Delft
+**Status:** Completed at TU Delft
 
 <div style="text-align: center; margin-top: 40px;">
 <a href="https://www.linkedin.com/in/michal-p-podolinsky/">LinkedIn</a> | <a href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing">CV</a> | <a href="mailto:michal.podolinsky@utexas.edu">Email</a> | <a href="https://github.com/mpodolinsky">GitHub</a>
