@@ -13,6 +13,8 @@ As a graduate research assistant at the [Autonomous Systems Group](https://auton
 
 <img src="/assets/PXL_20251118_163631017.MP.JPEG" alt="Introducing the basics of Raspberry Pi Python programming" width="500">
 
+<img src="/assets/del_valle_3.png" alt="Autonomous RC car project" width="500">
+
 ---
 
 <div style="text-align: center; margin-top: 30px;">

@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Profile Picture" width="220" align="left" style="margin-right:20px; border-radius:8px;"/>
-
 I was born in Slovakia and raised in Brussels, Belgium.
 
 I completed my BSc in Aerospace Engineering at *Delft University of Technology* (TU Delft) in the Netherlands.

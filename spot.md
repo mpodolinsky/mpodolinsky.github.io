@@ -24,9 +24,19 @@ Designed, 3D printed, and soldered custom payload platform; integrated compute a
 
 *Custom-designed payload platform with integrated sensors*
 
+### **Policy Training**
+
+Trained reinforcement-learning-based gait policies using NVIDIA Isaac Lab simulation environment.
+
+<p align="center">
+  <img src="/assets/NVIDIA_Isaac_Lab.png" alt="NVIDIA Isaac Lab policy training" width="600">
+</p>
+
+*Reinforcement learning policy training in NVIDIA Isaac Lab simulation*
+
 ### **Deployment & Validation**
 
-Trained and deployed reinforcement-learning-based gait policies in NVIDIA Isaac Lab, validated on real hardware.
+Deployed trained policies on real hardware and validated performance in real-world conditions.
 
 <div style="text-align: center; margin: 20px 0;">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/VYIzRHe3hXc?autoplay=1&mute=1&loop=1&playlist=VYIzRHe3hXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
