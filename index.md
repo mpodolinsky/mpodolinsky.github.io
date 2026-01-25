@@ -9,7 +9,7 @@ I am a graduate student in the **Aerospace Engineering (MSc)** Controls, Autonom
 
 I work as a researcher in **robotics and autonomy** at the *Autonomous Systems Group*
 
-Check out my [Projects](/projects/) or learn more [About Me](/about/).
+Check out my [Projects](/projects/), learn more [About Me](/about/), or check out my [Outreach](/outreach/).
 
 <hr style="border: 0; height: 1px; 
            background: linear-gradient(to right, transparent, #888, transparent);">

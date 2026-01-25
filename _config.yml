@@ -15,6 +15,8 @@ nav:
     link: /
   - name: "Projects"
     link: /projects/
+  - name: "Outreach"
+    link: /outreach/
   - name: "About Michal"
     link: /about/
 
