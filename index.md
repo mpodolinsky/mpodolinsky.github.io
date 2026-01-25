@@ -3,13 +3,13 @@ layout: default
 title: Home
 ---
 
-Hi, I’m **Michal**!
+Hi, I’m Michal!
 
 I am a graduate student in the **Aerospace Engineering (MSc)** Controls, Autonomy, and Robotics track at *UT Austin* 
 
 I work as a researcher in **robotics and autonomy** at the *Autonomous Systems Group*
 
-Check out my [Projects](/projects/), learn more [About Me](/about/), or check out my [Outreach](/outreach/).
+Check out my [projects](/projects/), learn more [about me](/about/), or check out my [outreach](/outreach/).
 
 <hr style="border: 0; height: 1px; 
            background: linear-gradient(to right, transparent, #888, transparent);">
@@ -22,3 +22,20 @@ Check out my [Projects](/projects/), learn more [About Me](/about/), or check ou
 </video>
 
 *This video is the property of PERCIV AI, do not use or share it without consent*
+
+<hr style="border: 0; height: 1px; 
+           background: linear-gradient(to right, transparent, #888, transparent);">
+
+*Boston Dynamics Spot - Deployment testing with reinforcement-learning-based gait policies*
+
+<div style="text-align: center;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/VYIzRHe3hXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<hr style="border: 0; height: 1px; 
+           background: linear-gradient(to right, transparent, #888, transparent);">
+
+<div style="text-align: center;">
+<a href="https://www.linkedin.com/in/michal-p-podolinsky/">LinkedIn</a> | <a href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing">CV</a> | <a href="mailto:michal.podolinsky@utexas.edu">Email</a>
+</div>
+</div>
