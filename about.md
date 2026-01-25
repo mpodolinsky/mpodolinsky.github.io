@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Profile Picture" width="150" align="left" style="margin-right:15px; border-radius:8px;"/>
+<img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Profile Picture" width="220" align="left" style="margin-right:20px; border-radius:8px;"/>
 
 I was born in Slovakia and raised in Brussels, Belgium.
 
@@ -26,6 +26,54 @@ In my free time, I enjoy hiking, running, and playing tennis. I am also a long-t
 - Awarded the *Belgian American Educational Foundation* Cabeaux-Jacobs Fellowship (2025) supporting my studies in the United Sates (up to $112,000).  
 - Developed a commercial LiDAR-based altitude estimation algorithm for autonomous agricultural drones at *Perciv AI*.
 - Starting graduate studies at UT Austin.
+---
+
+## Education
+
+**University of Texas at Austin**  
+Austin, TX  
+MSc in Aerospace Engineering - Controls, Autonomy & Robotics  
+*Aug 2024 - May 2026*
+
+**Delft University of Technology**  
+Delft, Netherlands  
+BSc in Aerospace Engineering  
+*Sep 2020 - Jul 2024*
+
+**University of Illinois Urbana-Champaign**  
+Urbana-Champaign, IL  
+Minor in Technology Entrepreneurship  
+*Aug 2022 - Dec 2022*
+
+---
+
+## Experience
+
+**Autonomous Systems Group, UT Austin**  
+Austin, TX  
+Graduate Research Assistant  
+*Aug 2024 - Present*
+
+**Bain & Company**  
+Brussels, Belgium  
+Associate Consultant Intern - Merger Integration  
+*Jun 2025 - Aug 2025*
+
+**Perciv AI**  
+Delft, Netherlands  
+UAV Perception Intern  
+*Jan 2024 - Jun 2024*
+
+**University of Illinois Urbana-Champaign - LEADS Laboratory**  
+Champaign, IL  
+Undergraduate Researcher - Computational Modelling  
+*Dec 2023 - Jun 2024*
+
+**Delft University of Technology**  
+Delft, Netherlands  
+Teaching Assistant - Engineering Mechanics: Dynamics  
+*Nov 2022 - May 2023*
+
 ---
 
 <div style="text-align: center; margin-top: 30px;">
