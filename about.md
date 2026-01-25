@@ -22,12 +22,6 @@ In my free time, I enjoy hiking, running, and playing tennis. I am also a long-t
 
 ---
 
-### What’s New
-- Awarded the *Belgian American Educational Foundation* Cabeaux-Jacobs Fellowship (2025) supporting my studies in the United Sates (up to $112,000).  
-- Developed a commercial LiDAR-based altitude estimation algorithm for autonomous agricultural drones at *Perciv AI*.
-- Starting graduate studies at UT Austin.
----
-
 ## Education
 
 **University of Texas at Austin**  
@@ -44,6 +38,8 @@ BSc in Aerospace Engineering
 Urbana-Champaign, IL  
 Minor in Technology Entrepreneurship  
 *Aug 2022 - Dec 2022*
+
+*Also accepted to MSc programs at Cornell University (MEng), ETH Zurich, University of Michigan Ann Arbor, University of Illinois Urbana-Champaign*
 
 ---
 
@@ -73,6 +69,14 @@ Undergraduate Researcher - Computational Modelling
 Delft, Netherlands  
 Teaching Assistant - Engineering Mechanics: Dynamics  
 *Nov 2022 - May 2023*
+
+---
+
+## Awards
+
+**Belgian American Educational Foundation Cabeaux-Jacobs Fellowship**  
+*2025*  
+Fellowship supporting graduate studies in the United States (up to $112,000)
 
 ---
 

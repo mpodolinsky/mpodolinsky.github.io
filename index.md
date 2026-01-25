@@ -47,6 +47,10 @@ Status: Active
 
 Coming soon
 
+## Blog
+
+Coming soon
+
 <div style="text-align: center; margin-top: 40px;">
 <a href="https://www.linkedin.com/in/michal-p-podolinsky/">LinkedIn</a> | <a href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing">CV</a> | <a href="mailto:michal.podolinsky@utexas.edu">Email</a> | <a href="https://github.com/mpodolinsky">GitHub</a>
 </div>
