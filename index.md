@@ -3,39 +3,37 @@ layout: default
 title: Home
 ---
 
-Hi, I’m Michal!
+<img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Michal Podolinsky" width="120" align="left" style="margin-right: 15px; margin-bottom: 10px;">
 
-I am a graduate student in the **Aerospace Engineering (MSc)** Controls, Autonomy, and Robotics track at *UT Austin* 
+### Hi, I'm Michal!
 
-I work as a researcher in **robotics and autonomy** at the *Autonomous Systems Group*
+I am a graduate student in **Aerospace Engineering (MSc)** Controls, Autonomy, and Robotics at *UT Austin*. I work as a researcher in **robotics and autonomy** at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group).
 
-Check out my [projects](/projects/), learn more [about me](/about/), or check out my [outreach](/outreach/).
+Learn more [about me](/about/) or check out my [outreach](/outreach/).
 
-<hr style="border: 0; height: 1px; 
-           background: linear-gradient(to right, transparent, #888, transparent);">
+## **Projects**
 
-*Front-facing LiDAR-only UAV altitude estimation. [learn more](/height_estimation/)*
+#### [**Boston Dynamics Spot Robot**](/spot/)
+<img src="/assets/IMG_0371.JPEG" alt="Spot Robot" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
 
-<video autoplay loop muted playsinline preload="metadata" style="max-width:100%; height:auto; border-radius:12px;">
-  <source src="{{ '/assets/pointcloud_demo.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+Custom payload development and reinforcement learning-based gait policy deployment on real hardware.
 
-*This video is the property of PERCIV AI, do not use or share it without consent*
+**Status:** Ongoing Research
 
-<hr style="border: 0; height: 1px; 
-           background: linear-gradient(to right, transparent, #888, transparent);">
+#### [**Front-Facing LiDAR Altitude Estimation**](/altitude_estimation/)
+<img src="/assets/Process_2.png" alt="Altitude Estimation" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
 
-*Boston Dynamics Spot - Deployment testing with reinforcement-learning-based gait policies*
+Robust altitude estimation for agricultural drones using only front-facing LiDAR.
 
-<div style="text-align: center;">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/VYIzRHe3hXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+**Status:** Deployed at [ABZ Innovation](https://abzinnovation.com/)
 
-<hr style="border: 0; height: 1px; 
-           background: linear-gradient(to right, transparent, #888, transparent);">
+#### [**Spatiotemporal Tracking from Satellite Data**](/eddy/)
+<img src="/assets/SLA_over_U-V.png" alt="Eddy Tracking" width="150" align="right" style="margin-left: 15px; border-radius: 8px;">
 
-<div style="text-align: center;">
-<a href="https://www.linkedin.com/in/michal-p-podolinsky/">LinkedIn</a> | <a href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing">CV</a> | <a href="mailto:michal.podolinsky@utexas.edu">Email</a>
-</div>
+Python pipeline for detecting and tracking dynamic oceanic eddies from satellite data.
+
+**Status:** Completed | TU Delft
+
+<div style="text-align: center; margin-top: 40px;">
+<a href="https://www.linkedin.com/in/michal-p-podolinsky/">LinkedIn</a> | <a href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing">CV</a> | <a href="mailto:michal.podolinsky@utexas.edu">Email</a> | <a href="https://github.com/mpodolinsky">GitHub</a>
 </div>

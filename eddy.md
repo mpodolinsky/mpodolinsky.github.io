@@ -57,4 +57,10 @@ Contributed to the building a full-stack Python pipeline to detect, filter, and 
 - **Correlation Analysis:** Matched detected structures with independent scalar fields (e.g. temperature) and quantified relationships through statistical averaging and classification.
 - **Data Visualization:** Automated generation of dynamic maps, heatmaps, and time-series plots to support analysis and debugging of the full pipeline.
 
+---
+
+<div style="text-align: center; margin-top: 30px;">
+<a href="/" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">← Back to Home</a>
+</div>
+
 

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="/assets/michal.jpg" alt="Profile Picture" width="150" align="left" style="margin-right:15px; border-radius:8px;"/>
+<img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Profile Picture" width="150" align="left" style="margin-right:15px; border-radius:8px;"/>
 
 I was born in Slovakia and raised in Brussels, Belgium.
 
@@ -18,12 +18,16 @@ My research at the *Autonomous Systems Group* has strengthened my passion for ro
 
 In my free time, I enjoy hiking, running, and playing tennis. I am also a long-term active member and volunteer at YMCA scout summer camps.
 
-[Github](https://github.com/mpodolinsky) · [LinkedIn](https://www.linkedin.com/in/michal-p-podolinsky/) · [Email](mailto:michal.p.podolinsky@gmail.com)
+[Github](https://github.com/mpodolinsky) · [LinkedIn](https://www.linkedin.com/in/michal-p-podolinsky/) · [Email](mailto:michal.p.podolinsky@gmail.com) · [CV](https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing)
 
-*CV available shortly*
 ---
 
 ### What’s New
 - Awarded the *Belgian American Educational Foundation* Cabeaux-Jacobs Fellowship (2025) supporting my studies in the United Sates (up to $112,000).  
 - Developed a commercial LiDAR-based altitude estimation algorithm for autonomous agricultural drones at *Perciv AI*.
 - Starting graduate studies at UT Austin.
+---
+
+<div style="text-align: center; margin-top: 30px;">
+<a href="/" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">← Back to Home</a>
+</div>

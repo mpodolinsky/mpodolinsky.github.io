@@ -13,12 +13,10 @@ plugins:
 nav:
   - name: "Home"
     link: /
-  - name: "Projects"
-    link: /projects/
+  - name: "About"
+    link: /about/
   - name: "Outreach"
     link: /outreach/
-  - name: "About Michal"
-    link: /about/
 
 # Author info
 author: "Michal P. Podolinsky"

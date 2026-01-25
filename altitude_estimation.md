@@ -40,3 +40,9 @@ Developed, tested, and deployed a robust algorithm enabling agricultural drones 
 - **Hardware-in-the-Loop (HIL):** Built HIL setups to simulate sensor input for optimizing latency and compute load in constrained environments.
 - **System Design & Knowledge Transfer:** Implemented modular ROS node architecture, led a functional safety lecture for the engineering team, and documented the full system for future scaling and maintenance.
 
+---
+
+<div style="text-align: center; margin-top: 30px;">
+<a href="/" style="display: inline-block; padding: 10px 20px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 6px; font-weight: 500;">← Back to Home</a>
+</div>
+
