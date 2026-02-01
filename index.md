@@ -39,6 +39,29 @@ title: Home
 <div class="card-grid">
 
   <div class="card" markdown="1">
+  <h4><a href="/multi_view_perception/">Multi-View Perception and Uncertainty Fusion for Autonomous Robots</a></h4>
+  <div class="meta">
+    <div>Status: Ongoing</div>
+    <div>Focus: multi-view perception, uncertainty quantification</div>
+  </div>
+  Ongoing research on multi-view perception fusion with rigorous uncertainty guarantees for safe autonomous operation, involving NVIDIA Isaac Sim.
+
+  <div class="tags">
+    <span class="tag">TensorFlow</span>
+    <span class="tag">RGB-D</span>
+    <span class="tag">NVIDIA Isaac Sim</span>
+    <span class="tag">Uncertainty Guarantees</span>
+    <span class="tag">Live Deployment</span>
+  </div>
+
+  <div class="thumb-row">
+    <img src="/assets/frontview_yolov8m.png" alt="Multi-view perception front view">
+    <img src="/assets/drone_wip.jpeg" alt="Multi-view perception drone">
+    <img src="/assets/sideview_yolov8m.png" alt="Multi-view perception side view">
+  </div>
+  </div>
+
+  <div class="card" markdown="1">
   <h4><a href="/spot/">Boston Dynamics Spot Robot</a></h4>
   <div class="meta">
     <div>Status: Ongoing</div>
@@ -65,7 +88,7 @@ title: Home
     <div>Status: Deployed at <a href="https://abzinnovation.com/">ABZ Innovation</a></div>
     <div>Focus: real-time perception on UAVs</div>
   </div>
-  Robust altitude estimation for agricultural drones using only front-facing LiDAR.
+  LiDAR-only Robust altitude estimation for UAVs in unstructured environments.
 
   <div class="tags">
     <span class="tag">LiDAR</span>
