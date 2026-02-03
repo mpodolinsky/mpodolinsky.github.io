@@ -131,7 +131,7 @@ title: Home
 <div class="page-section">
 <h3>Outreach</h3>
 <div class="card" markdown="1">
-<h4><a href="/outreach/">Del Valle High School Autonomous Car Project</a></h4>
+<h4><a href="/outreach/">Del Valle High School Autonomous Car Project - Army Educational Outreach Program</a></h4>
 <div class="meta">
   <div>Status: Active</div>
   <div>Focus: teaching robotics fundamentals to high school students</div>

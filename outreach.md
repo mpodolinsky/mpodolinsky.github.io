@@ -4,7 +4,7 @@ title: Outreach
 permalink: /outreach/
 ---
 
-## Del Valle High School Autonomous Car Project – Instructor
+## Del Valle High School Autonomous Car Project – Army Educational Outreach Program (AEOP) - Instructor
 **Austin, TX | Nov 2025 – present**
 
 As a graduate research assistant at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group) I am volunteering my time at the Del Valle High School in Austin teaching students the basics of servos and sensors, eletrical circuits, Python programming, and GPIO-based hardware control to create an autonomous RC car. 
