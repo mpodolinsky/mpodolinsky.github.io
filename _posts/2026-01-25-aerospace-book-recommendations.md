@@ -14,6 +14,8 @@ Although I decided to pursue the path of robotics, these books provided me with 
 
 Many engineering skills these books highlight remain crucial, even in the age of artificial intelligence.
 
+Both of these stories capture the [_zeitgeist_](https://www.merriam-webster.com/dictionary/zeitgeist) of the 20th century in the United States.
+
 **Skunk Works** tells the story of the mysterious and secretive division of Lockheed Martin behind the most ambitious aircraft projects. It highlights:
 
 - Deep work -- even more relevant today, when distraction is ubiquitous
