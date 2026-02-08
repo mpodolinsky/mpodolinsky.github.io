@@ -22,11 +22,11 @@ title: Home
 </style>
 
 <div class="hero">
-  <img src="/assets/WhatsApp Image 2026-01-24 at 22.14.24.jpeg" alt="Michal Podolinsky" style="width:190px; height:210px; object-fit:cover; border-radius:14px; background:#fff;">
+  <img src="/assets/IMG_0364.JPG" alt="Michal Podolinsky" style="width:190px; height:240px; object-fit:cover; object-position:right; border-radius:14px; background:#fff;">
   <div class="hero-text" markdown="1">
   Hi, I'm Michal!
 
-  I am a graduate student (MSc) in Aerospace Engineering — Controls, Autonomy, and Robotics at UT Austin. 
+  I am a [BAEF fellow](https://baef.be/2025/12/19/baef-fellows-2025-2026/) and graduate student (MSc) in Aerospace Engineering -- Controls, Autonomy, and Robotics at UT Austin. 
   
   I work as a graduate research assistant in robotics and autonomy at the [Autonomous Systems Group](https://autonomy.oden.utexas.edu/Groups/autonomous-systems-group).
 
@@ -56,8 +56,8 @@ title: Home
 
   <div class="thumb-row">
     <img src="/assets/frontview_yolov8m.png" alt="Multi-view perception front view">
+    <img src="assets/P5_features.png" alt="Multi-view perception side view">
     <img src="/assets/drone_wip.jpeg" alt="Multi-view perception drone">
-    <img src="/assets/sideview_yolov8m.png" alt="Multi-view perception side view">
   </div>
   </div>
 
