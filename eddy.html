@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Spatiotemporal Tracking from Satellite Data &middot; Michal P. Podolinsky</title>
+
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" crossorigin="anonymous" />
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" />
+  <!-- Site styles -->
+  <link rel="stylesheet" href="assets/css/site.css" />
+</head>
+<body>
+
+  <!-- ── Navbar ── -->
+  <nav class="navbar navbar-light navbar-expand-md fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <span class="fw-bold">Michal</span> P. Podolinsky
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="about.html">about</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html#publications">publications</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html#projects">projects</a></li>
+          <li class="nav-item"><a class="nav-link" href="outreach.html">outreach</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing" target="_blank">cv</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Main ── -->
+  <div class="container mt-5 pt-4" role="main">
+    <div class="post pt-3">
+
+      <header class="post-header">
+        <h1 class="post-title">Spatiotemporal Tracking of <span class="fw-bold">Dynamic Structures</span></h1>
+        <p class="desc">Academic Research &middot; Algorithm Design &amp; Data Processing &middot; TU Delft</p>
+      </header>
+
+      <p>Contributed to building a full-stack Python pipeline to detect, filter, and track dynamic
+      spatiotemporal structures (oceanic eddies) from large-scale, noisy satellite data.</p>
+
+      <div class="badge-row">
+        <span class="badge">Python</span>
+        <span class="badge">Satellite Data</span>
+        <span class="badge">Geophysics</span>
+        <span class="badge">Tracking</span>
+        <span class="badge">Completed</span>
+      </div>
+
+      <h2 class="al-section"><a href="#stack">technical stack</a></h2>
+      <ul id="stack">
+        <li><strong>Languages &amp; Tools:</strong> Python, NumPy, SciPy, Matplotlib, NetCDF4, custom plotting functions</li>
+        <li><strong>Algorithms:</strong> Finite-difference derivatives, time-series filtering, parameter sweeps</li>
+        <li><strong>General Skills:</strong> Numerical methods, spatiotemporal data processing, tracking/filtering pipelines, structured code design</li>
+      </ul>
+
+      <h2 class="al-section"><a href="#figure">detection pipeline</a></h2>
+
+      <figure id="figure" style="text-align: center;">
+        <div style="display: inline-block; width: 48%; margin: 1%;">
+          <img src="assets/Partial_SLA_map.png" alt="Sea level anomaly map of an eddy" style="max-width: 100%; height: auto;">
+          <figcaption class="fig-caption"><strong>(a)</strong> Sea level anomaly map of an eddy</figcaption>
+        </div>
+        <div style="display: inline-block; width: 48%; margin: 1%;">
+          <img src="assets/SLA_over_U-V.png" alt="Geostrophic velocities over SLA map" style="max-width: 100%; height: auto;">
+          <figcaption class="fig-caption"><strong>(b)</strong> Geostrophic velocities overlaid on SLA map</figcaption>
+        </div>
+        <div style="display: inline-block; width: 48%; margin: 1%;">
+          <img src="assets/Okubo-Weiss_Parameter.png" alt="Okubo-Weiss parameter W" style="max-width: 100%; height: auto;">
+          <figcaption class="fig-caption"><strong>(c)</strong> Okubo&ndash;Weiss parameter <em>W</em></figcaption>
+        </div>
+        <div style="display: inline-block; width: 48%; margin: 1%;">
+          <img src="assets/Eddy_Points.png" alt="Eddy point locations" style="max-width: 100%; height: auto;">
+          <figcaption class="fig-caption"><strong>(d)</strong> Detected eddy points (after correction &amp; filtering)</figcaption>
+        </div>
+        <figcaption class="fig-caption" style="margin-top: 1em;">
+          <strong>Figure:</strong> Main steps of eddy detection. Sea-level anomaly map (a). Geostrophic velocities used to compute <em>W</em> (b). The Okubo&ndash;Weiss parameter (c). Detected eddy points (d).
+        </figcaption>
+      </figure>
+
+      <h2 class="al-section"><a href="#contributions">key contributions</a></h2>
+      <ul id="contributions">
+        <li><strong>Gradient-Based Feature Extraction:</strong> Computed velocity, vorticity, and strain tensors from scalar fields using finite-difference approximations and derivatives on an adaptive grid.</li>
+        <li><strong>Dynamic Thresholding:</strong> Designed flexible filtering pipelines with tunable cutoffs based on region statistics (standard deviation, radius, lifetime, depth), balancing precision and noise rejection.</li>
+        <li><strong>Correlation Analysis:</strong> Matched detected structures with independent scalar fields (e.g. temperature) and quantified relationships through statistical averaging and classification.</li>
+        <li><strong>Data Visualization:</strong> Automated generation of dynamic maps, heatmaps, and time-series plots to support analysis and debugging of the full pipeline.</li>
+      </ul>
+
+      <div class="back-home"><a href="index.html">&larr; Back to Home</a></div>
+
+    </div>
+  </div><!-- /container -->
+
+  <!-- ── Footer ── -->
+  <footer>
+    <div class="container">
+      <p>
+        &copy; 2026 Michal P. Podolinsky &mdash; Powered by
+        <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+        with the <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener">al-folio</a> theme.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <!-- Slideshow -->
+  <script src="assets/js/slideshow.js"></script>
+
+</body>
+</html>

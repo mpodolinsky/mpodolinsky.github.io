@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LiDAR Altitude Estimation &middot; Michal P. Podolinsky</title>
+
+  <!-- Bootstrap 5 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" crossorigin="anonymous" />
+  <!-- Font Awesome 6 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous" />
+  <!-- Site styles -->
+  <link rel="stylesheet" href="assets/css/site.css" />
+</head>
+<body>
+
+  <!-- ── Navbar ── -->
+  <nav class="navbar navbar-light navbar-expand-md fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">
+        <span class="fw-bold">Michal</span> P. Podolinsky
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="about.html">about</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html#publications">publications</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html#projects">projects</a></li>
+          <li class="nav-item"><a class="nav-link" href="outreach.html">outreach</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://drive.google.com/file/d/1S0G6_bTJ2stPSoupfMrBNKc9shdzBuCu/view?usp=sharing" target="_blank">cv</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ── Main ── -->
+  <div class="container mt-5 pt-4" role="main">
+    <div class="post pt-3">
+
+      <header class="post-header">
+        <h1 class="post-title">Front-Facing LiDAR <span class="fw-bold">Altitude Estimation</span></h1>
+        <p class="desc">
+          Commercial internship at <a href="https://www.perciv.ai/" target="_blank">Perciv AI</a> &middot;
+          Commercially deployed in <a href="https://abzinnovation.com/" target="_blank">ABZ Innovation</a> agricultural drones
+        </p>
+      </header>
+
+      <p>Developed, tested, and deployed a robust algorithm enabling agricultural drones to estimate
+      their altitude using only a front-facing LiDAR sensor&mdash;supporting reliable low-altitude
+      flight without GPS or downward sensors.</p>
+
+      <ul>
+        <li>Fewer sensors reduce cost and risk of hardware failure</li>
+        <li>Can be used as a primary or backup altitude estimator for greater robustness</li>
+        <li>More accurate than GPS in complex and irregular environments</li>
+      </ul>
+
+      <div class="badge-row">
+        <span class="badge">LiDAR</span>
+        <span class="badge">C++ / Python</span>
+        <span class="badge">ROS</span>
+        <span class="badge">Embedded</span>
+        <span class="badge">Deployed</span>
+      </div>
+
+      <h2 class="al-section"><a href="#stack">technical stack</a></h2>
+      <ul id="stack">
+        <li><strong>Languages &amp; Tools:</strong> C++, Python, ROS, Docker, GitHub, Linux</li>
+        <li><strong>Embedded Platforms:</strong> Raspberry Pi 5, medium-sized UAVs</li>
+        <li><strong>Sensor &amp; Robotics Skills:</strong> Point cloud processing, sensor calibration, coordinate frame transformations (TF), real-time filtering, hardware-software integration, hardware-in-the-loop (HIL) testing, system latency optimization</li>
+        <li><strong>Software Engineering:</strong> OOP, modular architecture, unit testing (C++ &amp; Python), Git-based workflows, robust documentation, scalable codebase design</li>
+        <li><strong>Simulation &amp; Visualization:</strong> Foxglove Studio, RViz</li>
+        <li><strong>Soft Skills &amp; Collaboration:</strong> Technical writing, team-wide safety training, live demonstrations, documentation for handover and future development</li>
+      </ul>
+
+      <h2 class="al-section"><a href="#gallery">in the field</a></h2>
+      <p class="fig-caption" id="gallery">These images are the property of PERCIV AI&mdash;do not use or share them without consent.</p>
+
+      <img src="assets/Process_2.png" class="content-img" alt="Altitude estimation algorithm in a field" />
+      <p class="fig-caption">Live field testing in an unstructured environment to validate altitude estimation accuracy</p>
+
+      <video class="content-video" autoplay loop muted playsinline preload="metadata">
+        <source src="assets/pointcloud_demo.mp4" type="video/mp4">
+      </video>
+      <p class="fig-caption">Real-time point cloud processing demonstration</p>
+
+      <img src="assets/1.png" class="content-img" style="max-width:70%;" alt="Live drone test running the altitude estimator" />
+      <p class="fig-caption">Flight test with the algorithm running on-board</p>
+
+      <img src="assets/2.png" class="content-img" style="max-width:70%;" alt="Raspberry Pi running the altitude estimation module" />
+      <p class="fig-caption">Embedded module executing the estimator during field trials</p>
+
+      <h2 class="al-section"><a href="#contributions">key contributions</a></h2>
+      <ul id="contributions">
+        <li><strong>Algorithm Development:</strong> Designed real-time altitude estimation algorithms in <strong>Python and C++</strong> using <strong>ROS</strong>, with seamless integration in <strong>Linux</strong> and <strong>Docker</strong> environments.</li>
+        <li><strong>Embedded Systems Integration:</strong> Deployed code on <strong>Raspberry Pi 5</strong> modules and physically integrated it into drone hardware for field use.</li>
+        <li><strong>Real-World Testing:</strong> Performed live drone tests in agricultural settings, gathering sensor data and iterating on code for improved performance.</li>
+        <li><strong>Hardware-in-the-Loop (HIL):</strong> Built HIL setups to simulate sensor input for optimizing latency and compute load in constrained environments.</li>
+        <li><strong>System Design &amp; Knowledge Transfer:</strong> Implemented a modular ROS node architecture, led a functional safety lecture for the engineering team, and documented the full system for future scaling and maintenance.</li>
+      </ul>
+
+      <div class="back-home"><a href="index.html">&larr; Back to Home</a></div>
+
+    </div>
+  </div><!-- /container -->
+
+  <!-- ── Footer ── -->
+  <footer>
+    <div class="container">
+      <p>
+        &copy; 2026 Michal P. Podolinsky &mdash; Powered by
+        <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>
+        with the <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener">al-folio</a> theme.
+      </p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <!-- Slideshow -->
+  <script src="assets/js/slideshow.js"></script>
+
+</body>
+</html>
