@@ -279,6 +279,15 @@ h2.al-section a:hover { color: var(--global-hover-color); }
   text-decoration: none;
 }
 
+.publications .pub-links a.disabled,
+.publications .pub-links a.disabled:hover {
+  color: #aaa;
+  border-color: #ccc;
+  background: transparent;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 /* ── Outreach ── */
 .outreach-img {
   width: 100%;
