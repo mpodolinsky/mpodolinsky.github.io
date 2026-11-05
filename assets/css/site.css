@@ -256,6 +256,11 @@ h2.al-section a:hover { color: var(--global-hover-color); }
   font-weight: 600;
 }
 
+.publications .pub-authors {
+  font-size: 0.85rem;
+  margin-top: 0.15rem;
+}
+
 .publications .pub-links {
   margin-top: 0.5rem;
   display: flex;
